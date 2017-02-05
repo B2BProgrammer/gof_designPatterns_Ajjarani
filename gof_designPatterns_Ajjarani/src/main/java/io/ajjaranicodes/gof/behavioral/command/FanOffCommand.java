@@ -8,7 +8,7 @@ package io.ajjaranicodes.gof.behavioral.command;
  *
  */
 public class FanOffCommand implements Command {
-	//Receiver
+	//Receiver of Fan
 	private Fan fan;
 	
 	//Accept the receiver for concrete command implementation
