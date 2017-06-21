@@ -21,5 +21,7 @@ public class ChainOfResposibilityClient {
 		payrollEmailHandler.processEmail(email1);
 		payrollEmailHandler.processEmail(email2);
 		payrollEmailHandler.processEmail(email3);
+		
+		
 	}
 }
